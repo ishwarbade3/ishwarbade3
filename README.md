@@ -170,9 +170,9 @@ public:
 
 # 🐍 ISHWAR 🐍
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=ISHWAR+BADE;JAVA+DEVELOPER;C%2B%2B+DEVELOPER;PROBLEM+SOLVER" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
