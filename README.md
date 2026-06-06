@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
+<img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg" width="100%" />
 
 # 👋 Hi, I'm Ishwar Bade
 
@@ -166,9 +166,13 @@ public:
 
 # 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<div align="center">
+
+# 🐍 ISHWAR 🐍
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=ISHWAR+BADE;JAVA+DEVELOPER;C%2B%2B+DEVELOPER;PROBLEM+SOLVER" />
+
+</div>
 
 ---
 
