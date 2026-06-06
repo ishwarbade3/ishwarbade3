@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="./assets/coder-room.png" width="100%" />
