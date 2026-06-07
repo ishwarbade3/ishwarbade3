@@ -1,12 +1,10 @@
-
 <div align="center">
 
 <img src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg" width="100%" />
 
 # 👋 Hi, I'm Ishwar Bade
 
-<br>
-
+### Java Developer ⚡ C++ Developer ⚡ Problem Solver
 
 </div>
 
@@ -18,40 +16,36 @@
 class IshwarBade {
 public:
 
-    string role1 = "Java Developer";
-    string role2 = "C++ Developer";
+    string role = "Java Backend Developer";
 
-    string education = "CDAC ACTS Student";
+    string education = "PG-DAC (CDAC ACTS)";
 
     int dsaSolved = 150;
 
     vector<string> skills = {
         "Java",
-        "C++",
-        "STL",
         "Spring Boot",
         "Hibernate",
         "MySQL",
-        "REST APIs",
+        "C++",
         "Git",
-        "GitHub",
-        "Data Structures",
-        "Algorithms"
+        "REST APIs",
+        "DSA"
     };
 
     string goal = "Build Scalable Software Products";
 };
-````
+```
 
-🚀 Pursuing CDAC ACTS
+🚀 Pursuing PG-DAC at CDAC ACTS
 
-💻 Java Developer | C++ Developer
+💻 Java Backend Developer
 
 🔥 Solved 150+ DSA Problems
 
 📚 Learning Spring Boot, Hibernate & System Design
 
-📧 [work.ishwarbade@gmail.com](mailto:work.ishwarbade@gmail.com)
+📧 work.ishwarbade@gmail.com
 
 ---
 
@@ -59,13 +53,9 @@ public:
 
 <div align="center">
 
-<a href="https://github.com/ishwarbade3/Java_at_CDAC">
-<img src="https://img.shields.io/badge/Java_Practice-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/STL-00599C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot"/>
 
@@ -73,67 +63,57 @@ public:
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
 </div>
 
 ---
 
+# 🚀 Featured Projects
 
-## 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <a href="https://github.com/ishwarbade3/Cache-Handling">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishwarbade3&repo=Cache-Handling&theme=radical" />
-  </a>
-  <a href="https://github.com/ishwarbade3/Java_at_CDAC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishwarbade3&repo=Java_at_CDAC&theme=radical" />
-  </a>
-</p>
+### Cache Handling
+
+- Spring Boot Caching
+- Redis Integration
+- Performance Optimization
+
+🔗 https://github.com/ishwarbade3/Cache-Handling
+
+</td>
+
+<td width="50%">
+
+### Java at CDAC
+
+- Core Java
+- Collections
+- Multithreading
+- JDBC
+
+🔗 https://github.com/ishwarbade3/Java_at_CDAC
+
+</td>
+</tr>
+</table>
+
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ishwarbade3&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishwarbade3&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwarbade3&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishwarbade3&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwarbade3&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ishwarbade3&theme=matrix&no-frame=true&row=1"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishwarbade3&theme=react-dark"/>
-</p>
-
----
-
-# 💡 Developer Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
-
----
-
-# 😂 Random Programming Joke
-
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=dark"/>
 </p>
 
 ---
@@ -160,23 +140,19 @@ public:
 
 
 
-<div align="center">
-
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=ishwarbade3&label=PROFILE+VISITORS&color=00ff41&style=for-the-badge"/>
+
+<br><br>
+
 ### 🚀 Code • Optimize • Scale • Repeat
-
-### Java Developer ⚡ C++ Developer ⚡ Problem Solver
-
-<img src="https://komarev.com/ghpvc/?username=ishwarbade3&label=PROFILE+VISITORS&color=00ff41&style=for-the-badge"/> <br>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=200&section=footer"/>
 
