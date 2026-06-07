@@ -85,11 +85,11 @@ public:
 <div align="center">
 
 <a href="https://github.com/ishwarbade3/Cache-Handling">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ishwarbade3&repo=Cache-Handling&theme=chartreuse-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishwarbade3&repo=Cache-Handling&theme=chartreuse-dark" />
 </a>
 
 <a href="https://github.com/ishwarbade3/Java_at_CDAC">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ishwarbade3&repo=Java_at_CDAC&theme=chartreuse-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishwarbade3&repo=Java_at_CDAC&theme=chartreuse-dark" />
 </a>
 
 </div>
@@ -164,11 +164,10 @@ public:
 
 ---
 
-# 🐍 Contribution Snake
+
 
 <div align="center">
 
-# 🐍 ISHWAR 🐍
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -185,4 +184,3 @@ public:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=200&section=footer"/>
 
 </div>
-```
