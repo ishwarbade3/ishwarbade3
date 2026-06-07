@@ -5,11 +5,8 @@
 
 # 👋 Hi, I'm Ishwar Bade
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Java+Developer;C%2B%2B+Developer;Spring+Boot+%7C+Hibernate+%7C+MySQL;CDAC+ACTS+Student;150%2B+DSA+Problems+Solved;Building+Scalable+Applications+🚀" />
-
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ishwarbade3&label=PROFILE+VISITORS&color=00ff41&style=for-the-badge"/>
 
 </div>
 
@@ -177,6 +174,9 @@ public:
 ### 🚀 Code • Optimize • Scale • Repeat
 
 ### Java Developer ⚡ C++ Developer ⚡ Problem Solver
+
+<img src="https://komarev.com/ghpvc/?username=ishwarbade3&label=PROFILE+VISITORS&color=00ff41&style=for-the-badge"/> <br>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=200&section=footer"/>
 
