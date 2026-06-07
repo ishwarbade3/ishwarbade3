@@ -80,20 +80,17 @@ public:
 
 ---
 
-# 🚀 Featured Projects
 
-<div align="center">
+## 🚀 Featured Projects
 
-<a href="https://github.com/ishwarbade3/Cache-Handling">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishwarbade3&repo=Cache-Handling&theme=chartreuse-dark" />
-</a>
-
-<a href="https://github.com/ishwarbade3/Java_at_CDAC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishwarbade3&repo=Java_at_CDAC&theme=chartreuse-dark" />
-</a>
-
-</div>
-
+<p align="center">
+  <a href="https://github.com/ishwarbade3/Cache-Handling">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishwarbade3&repo=Cache-Handling&theme=radical" />
+  </a>
+  <a href="https://github.com/ishwarbade3/Java_at_CDAC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishwarbade3&repo=Java_at_CDAC&theme=radical" />
+  </a>
+</p>
 ---
 
 # 📊 GitHub Analytics
