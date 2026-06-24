@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Ishwar Bade
 
-### Java Developer ⚡ C++ Developer ⚡ Problem Solver
+### Fullstack Developer⚡Java Developer ⚡ C++ Developer ⚡ Problem Solver
 
 </div>
 
